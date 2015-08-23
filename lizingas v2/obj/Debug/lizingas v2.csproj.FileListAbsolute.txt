@@ -19,3 +19,24 @@ E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2
 C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe.config
 C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\obj\Debug\lizingas v2.exe
 C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\obj\Debug\lizingas v2.pdb
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\lizingas v2.exe.config
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\obj\Debug\lizingas v2.exe
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\obj\Debug\lizingas v2.pdb
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\lizingas v2.exe
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\lizingas v2.pdb
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Razor.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.Razor.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\obj\Debug\lizingas_v2.Form1.resources
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\obj\Debug\lizingas_v2.Properties.Resources.resources
+C:\Users\Vmikalainis\Documents\GitHub\debitApp\lizingas v2\obj\Debug\lizingas v2.csproj.GenerateResource.Cache
