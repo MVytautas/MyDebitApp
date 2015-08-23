@@ -1,0 +1,21 @@
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe.config
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.pdb
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.csprojResolveAssemblyReference.cache
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas_v2.Form1.resources
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas_v2.Properties.Resources.resources
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.csproj.GenerateResource.Cache
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.exe
+C:\Users\Ligita\Documents\Visual Studio 2012\Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.pdb
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe.config
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.exe
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.pdb
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\bin\Debug\lizingas v2.pdb
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.csprojResolveAssemblyReference.cache
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas_v2.Form1.resources
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas_v2.Properties.Resources.resources
+E:\Projects\visual studio Projects\lizingas v2\lizingas v2\obj\Debug\lizingas v2.csproj.GenerateResource.Cache
+C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\bin\Debug\lizingas v2.exe.config
+C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\obj\Debug\lizingas v2.exe
+C:\Users\Vmikalainis\Desktop\lizingas v2\lizingas v2\obj\Debug\lizingas v2.pdb
