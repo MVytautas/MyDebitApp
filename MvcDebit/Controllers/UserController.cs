@@ -16,13 +16,15 @@ namespace MvcDebit.Controllers
             if (true == String.IsNullOrEmpty(user) || true == String.IsNullOrEmpty(pass))
                 return View("Loginerror");
 
-            // user != empty;
+            // user != empty; 
             // pass != empty;
+
             // if user != empty then
-            // user they quarry user from db
+            // user then quarry user from db
             // if user = quarry
             // then pass = from db 
             // if else then
+
             // re direct to home page
             // fail msg if not correct log in information
             return new RedirectResult("Index", false); // redirect to "Home" page
@@ -36,7 +38,7 @@ namespace MvcDebit.Controllers
 
         public User readQuarry()
         {
-            var user = new User("Bob", 20);
+            var user = new User("Bob", 20, "easypass");
             return user;
         }
 

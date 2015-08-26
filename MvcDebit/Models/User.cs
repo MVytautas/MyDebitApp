@@ -7,15 +7,16 @@ namespace MvcDebit.Models
 {
     public class User
     {
-        public string name
+        public string Name
         {
             get;
             set;
         }
 
-        public User(string user, int Age)
+        public User(string user, int Age, string password)
         {
-            name = user;
+            Name = user;
+            pass = password;
             age = Age;
         }
 
